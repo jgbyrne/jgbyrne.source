@@ -1,7 +1,7 @@
 [[build]]
 default = true
 name    = "default"
-out     = "../jgbyrne.local"
+out     = "../local"
 
 [[build]]
 name = "release"
