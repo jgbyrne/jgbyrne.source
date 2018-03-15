@@ -1,0 +1,8 @@
+[[build]]
+default = true
+name    = "default"
+out     = "../jgbyrne.local"
+
+[[build]]
+name = "release"
+out  = "../jgbyrne.github.io"
