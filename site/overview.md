@@ -1,4 +1,4 @@
-  I'm a proficient programmer with over 5 years of experience across a range of languages, technologies, and paradigms. I pride myself on writing robust, elegant, and efficient programs, and consider myself to have a strong intuition for engineering complex and flexible systems from the ground up. Equally, I am adept at quickly grasping the structure of existing codebases, which allows me to hit the ground running and begin making constructive improvements to existing projects from from Day 1.
+  I'm a proficient programmer with over 5 years of experience across a range of languages, technologies, and paradigms. I pride myself on writing robust, elegant, and efficient programs, and consider myself to have a strong intuition for engineering complex and flexible systems from the ground up. Equally, I am adept at quickly grasping the structure of existing codebases, which allows me to hit the ground running and begin making constructive improvements from from Day 1.
 
   Through several years of self-directed study, I have developed a broad and well-developed understanding of both the theoretical and practical aspects of Computer Science and Software Engineering. I am particuarly interested in the development of system software, especially compiler design, although my interests are broad and have touched upon fields as diverse as robotics and web development.
 
@@ -10,16 +10,16 @@
 
 ## Skillset - Languages
 
-**Highly Proficient**
+#### Highly Proficient
 
 * **Python** - many years of experience, with a strong knowledge of every facet of the language, and familiarity with many common libraries.
 
-**Proficient**
+#### Proficient
 
 * **Rust** - competent - able to write idiomatic and modern Rust with a good knowledge of language concepts such as lifetimes and traits.
 * **C** - competent - able to write safe and efficient code
 
-**Familiar**
+#### Familiar
 
 * **Java** - reasonably competent 
 * **C#** - some experience, and reasonable competency by virtue of similarity with Java
