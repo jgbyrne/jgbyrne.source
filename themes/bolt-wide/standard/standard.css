@@ -13,7 +13,7 @@ h1,h2,h3 {
 }
 
 #bolt-body {
-    width: 60%;
+    max-width: 1200px;
     margin: auto;
 }
 
